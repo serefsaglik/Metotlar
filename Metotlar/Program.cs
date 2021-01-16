@@ -42,6 +42,7 @@ namespace Metotlar
             sepetManager.Ekle2("Elma", "Yeşil elma", 12);
             sepetManager.Ekle2("Karpuz", "adana karpuzu", 12);
 
+            Console.WriteLine("oldu sanırım....");
 
             
         }
